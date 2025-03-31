@@ -79,7 +79,9 @@ The Jupyter Notebook contains the data preprocessing and model training steps.
 - Ensure that the `news_category_model.pkl` file is present in the root directory.
 - Check compatibility of `scikit-learn` versions when loading the model.
 
+You can view the deployed version of the app [here](https://omeche-nlp-news-classificationapp-lyoatt.streamlit.app/).
+
 📬 Contact
-Feel free to reach out to me at (mailto:omechetochiagmail.com) for any questions or collaborations!
+Feel free to reach out to me at (mailto:omechetochi@gmail.com) for any questions or collaborations!
 
 
