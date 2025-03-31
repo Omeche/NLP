@@ -3,7 +3,7 @@ import joblib
 import datetime
 
 # Load the saved model
-model = joblib.load(r'C:\Users\HP\news_category_model.pkl')
+model = joblib.load('news_category_model.pkl')
 
 # Define the categories
 category_mapping = {0: 'BUSINESS', 1: 'SPORTS', 2: 'CRIME', 3: 'SCIENCE'}
